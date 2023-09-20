@@ -1,7 +1,7 @@
 function countStr(str, letter) {
     let count = 0;
 
-    //Loop through String
+    //Loop String 
     for(let i = 0; i< str.length; i++){
 
         //Check chars at pos
